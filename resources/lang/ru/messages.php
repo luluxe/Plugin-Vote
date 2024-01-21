@@ -10,11 +10,13 @@ return [
     ],
 
     'fields' => [
-        'servers' => 'Сервера',
-        'chances' => 'Шанс',
-        'rewards' => 'Награда',
+        'chances' => 'Шансы',
         'commands' => 'Команды',
-        'votes' => 'Голоса',
+        'reward' => 'Награда',
+        'rewards' => 'Награды',
+        'servers' => 'Сервера',
+        'site' => 'Сайт',
+        'votes' => 'Галосования',
     ],
 
     'errors' => [
